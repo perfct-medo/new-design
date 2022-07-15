@@ -761,7 +761,7 @@ body {
 /* start contact us */
 
 .contact {
-    background-image: url(/imges/map.png);
+    background-image: url(imges/map.png);
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
